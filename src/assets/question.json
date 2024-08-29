@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "question": "A train running at a speed of 60 km/h crosses a pole in 9 seconds. What is the length of the train?",
+      "options": [
+        "120 meters",
+        "150 meters",
+        "180 meters",
+        "160 meters"
+      ],
+      "answer": "150 meters"
+    },
+    {
+      "id": 2,
+      "question": "If the cost price of 20 articles is equal to the selling price of 16 articles, what is the profit percentage?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "40%"
+      ],
+      "answer": "25%"
+    },
+    {
+      "id": 3,
+      "question": "What is the compound interest on Rs. 2000 for 2 years at 5% per annum?",
+      "options": [
+        "Rs. 205",
+        "Rs. 210.25",
+        "Rs. 220.50",
+        "Rs. 230.75"
+      ],
+      "answer": "Rs. 210.25"
+    },
+    {
+      "id": 4,
+      "question": "A man can do a job in 15 days. If he works with his son, they can complete the job together in 9 days. How long will it take the son to do the job alone?",
+      "options": [
+        "15 days",
+        "18 days",
+        "24 days",
+        "30 days"
+      ],
+      "answer": "30 days"
+    },
+    {
+      "id": 5,
+      "question": "A mixture contains milk and water in the ratio 5:2. If 14 liters of the mixture is replaced with 14 liters of water, the new ratio becomes 5:4. What is the original quantity of milk in the mixture?",
+      "options": [
+        "20 liters",
+        "25 liters",
+        "30 liters",
+        "35 liters"
+      ],
+      "answer": "35 liters"
+    }
+  ]
+  
